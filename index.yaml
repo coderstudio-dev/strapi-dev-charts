@@ -11,4 +11,15 @@ entries:
     urls:
     - https://github.com/coderstudio-dev/strapi-dev-charts/releases/download/docker-compose-0.0.1/docker-compose-0.0.1.tgz
     version: 0.0.1
-generated: "2024-01-27T11:25:00.304732551Z"
+  strapi-dev:
+  - apiVersion: v2
+    created: "2024-01-27T11:37:27.373212238Z"
+    description: A generated Helm Chart for docker-compose from Skippbox Kompose
+    digest: 92ea57bd30eda3b84d54b9267439c853709cdf0bc9ecdfd7cf2fe046ff983f7f
+    keywords:
+    - docker-compose
+    name: strapi-dev
+    urls:
+    - https://github.com/coderstudio-dev/strapi-dev-charts/releases/download/strapi-dev-0.0.1/strapi-dev-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-01-27T11:37:27.373242835Z"

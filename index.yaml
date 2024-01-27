@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  docker-compose:
+  - apiVersion: v2
+    created: "2024-01-27T11:25:00.304708426Z"
+    description: A generated Helm Chart for docker-compose from Skippbox Kompose
+    digest: 0e5be9f0423b79e40bf0bfb022a5867d6ae026cce05ce892d6fb803480bab395
+    keywords:
+    - docker-compose
+    name: docker-compose
+    urls:
+    - https://github.com/coderstudio-dev/strapi-dev-charts/releases/download/docker-compose-0.0.1/docker-compose-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-01-27T11:25:00.304732551Z"
